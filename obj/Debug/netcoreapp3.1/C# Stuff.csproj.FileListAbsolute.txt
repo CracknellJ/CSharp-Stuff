@@ -20,3 +20,14 @@ C:\Users\Jack\Desktop\CSharp Stuff\obj\Debug\netcoreapp3.1\C# Stuff.AssemblyInfo
 C:\Users\Jack\Desktop\CSharp Stuff\obj\Debug\netcoreapp3.1\C# Stuff.AssemblyInfo.cs
 C:\Users\Jack\Desktop\CSharp Stuff\obj\Debug\netcoreapp3.1\C# Stuff.dll
 C:\Users\Jack\Desktop\CSharp Stuff\obj\Debug\netcoreapp3.1\C# Stuff.pdb
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\obj\Debug\netcoreapp3.1\C# Stuff.csprojAssemblyReference.cache
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\obj\Debug\netcoreapp3.1\C# Stuff.AssemblyInfoInputs.cache
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\obj\Debug\netcoreapp3.1\C# Stuff.AssemblyInfo.cs
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\obj\Debug\netcoreapp3.1\C# Stuff.dll
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\obj\Debug\netcoreapp3.1\C# Stuff.pdb
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\bin\Debug\netcoreapp3.1\C# Stuff.exe
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\bin\Debug\netcoreapp3.1\C# Stuff.deps.json
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\bin\Debug\netcoreapp3.1\C# Stuff.runtimeconfig.json
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\bin\Debug\netcoreapp3.1\C# Stuff.runtimeconfig.dev.json
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\bin\Debug\netcoreapp3.1\C# Stuff.dll
+C:\Users\jackc\Desktop\LearnProgramming\CSharp-Stuff\bin\Debug\netcoreapp3.1\C# Stuff.pdb
