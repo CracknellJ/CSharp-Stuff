@@ -2,6 +2,9 @@ using System;
 
 namespace CSharp_Stuff
 {
+    /*
+    Simple squares is used as a basic introduction for variables, classes and methods
+    */
    class SimpleSquares
     {
         public static string AreaOfAKeyboard()
