@@ -8,6 +8,11 @@ namespace CSharp_Stuff
         {
             Console.WriteLine("Hello World!");
 
+            TutorialOne();
+        }
+
+        public static void TutorialOne()
+        {
             string areaOfMyKeyboard = SimpleSquares.AreaOfAKeyboard();
             Console.WriteLine(areaOfMyKeyboard);
 
@@ -18,6 +23,7 @@ namespace CSharp_Stuff
             int windowWidth = int.Parse(Console.ReadLine());
             int areaOfMyWindow = SimpleSquares.AreaOfASquare(height:windowHeight, width:windowWidth);
             Console.WriteLine("The area of my window is: " + areaOfMyWindow);
+            Console.ReadLine();
         }
     }
 }
