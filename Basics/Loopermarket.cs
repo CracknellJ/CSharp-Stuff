@@ -3,7 +3,7 @@
     namespace CSharp_Stuff
     {
         /*
-        Going round in circles builds upon knowledge learned in Tutorial one and two.
+        Loopermarket builds upon knowledge learned in Tutorial one and two.
         In this class, we introduce different ways to implement iteration.
         */
         class Loopermarket
