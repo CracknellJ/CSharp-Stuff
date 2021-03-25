@@ -20,7 +20,7 @@ namespace CSharp_Stuff
         }
 
         /*
-        Tutorial one and introduces basic I/O, variables, different data types, conditional statements, methods and multi-class interaction
+        Tutorial one and two introduce basic I/O, variables, different data types, conditional statements, methods and multi-class interaction
         */
         #region Tutorial one and two
         public static void TutorialOne()
